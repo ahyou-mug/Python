@@ -2,8 +2,8 @@
 
 """
 Function to recursively map dictionary keys in Python.
-Maps all for each level, then returns number of items
-in lowest level.
+Maps all keys for each level, then returns number of
+items in lowest level.
 Designed with web scraping and other tasks in mind
 where dictionaries may have large numbers of pairs
 and need cleaning. End goal is to use it to present the
